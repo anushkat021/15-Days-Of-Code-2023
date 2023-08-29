@@ -4,6 +4,4 @@
 
 August 29 ,2023
 
-* 
-*
-*
+* solved 7 problems on Codeforces
