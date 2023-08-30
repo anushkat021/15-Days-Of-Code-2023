@@ -13,6 +13,8 @@ solved 7 problems on Codeforces
 * https://codeforces.com/contest/282/submission/220950477
 * https://codeforces.com/contest/263/submission/220955089
 
+## Day 2
+
 August 30 ,2023
 
 solved 4 problems on Codeforces
