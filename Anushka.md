@@ -40,10 +40,10 @@ solved 6 problems on Codeforces
 September 1 ,2023
 
 solved 1 problem on Codeforces
-* https://codeforces.com/contest/734/submission/221482177
+* https://codeforces.com/contest/734/submission/221482177 <br/>
 solved 1 more but getting error in test case.
-* https://codeforces.com/contest/110/submission/221484529
-* watched lecture on time and space complexity by babbar
+* https://codeforces.com/contest/110/submission/221484529 <br/>
+watched lecture on time and space complexity by babbar
 
 ## Day 5
 
