@@ -34,3 +34,21 @@ solved 6 problems on Codeforces
 * https://codeforces.com/contest/546/submission/221191953
 * https://codeforces.com/contest/791/submission/221190944
 * https://codeforces.com/contest/266/submission/221189946
+
+## Day 4
+
+September 1 ,2023
+
+solved 1 problem on Codeforces
+* https://codeforces.com/contest/734/submission/221482177
+solved 1 more but getting error in test case.
+* https://codeforces.com/contest/110/submission/221484529
+* watched lecture on time and space complexity by babbar
+
+## Day 5
+
+September 2 ,2023
+
+solved 2 problem on Codeforces
+* https://codeforces.com/contest/116/submission/221492962
+* https://codeforces.com/contest/41/submission/221494108
