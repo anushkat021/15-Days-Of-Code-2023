@@ -49,6 +49,12 @@ watched lecture on time and space complexity by babbar
 
 September 2 ,2023
 
-solved 2 problem on Codeforces
+solved 2 problems on Codeforces
 * https://codeforces.com/contest/116/submission/221492962
 * https://codeforces.com/contest/41/submission/221494108
+
+## Day 8
+
+September 5 ,2023
+
+watched youtube lecture of STL in C++ by Babbar
