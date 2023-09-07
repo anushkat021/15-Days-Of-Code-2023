@@ -53,8 +53,33 @@ solved 2 problems on Codeforces
 * https://codeforces.com/contest/116/submission/221492962
 * https://codeforces.com/contest/41/submission/221494108
 
+## Day 6
+
+September 3 ,2023
+
+## Day 7
+
+September 4 ,2023
+
 ## Day 8
 
 September 5 ,2023
 
 watched youtube lecture of STL in C++ by Babbar
+
+## Day 9
+
+September 6 ,2023
+
+youtube lecture on linked list by Babbar
+
+## Day 10
+
+September 7 ,2023
+
+solved 4 poblems on Codeforces
+* https://codeforces.com/contest/467/submission/222359355
+* https://codeforces.com/contest/266/submission/222353508
+* https://codeforces.com/contest/1030/submission/222358035
+* https://codeforces.com/contest/271/submission/222357093
+
