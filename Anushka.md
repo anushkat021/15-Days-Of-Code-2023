@@ -94,3 +94,10 @@ solved 5 poblems on Codeforces
 * https://codeforces.com/contest/486/submission/222498637
 * https://codeforces.com/contest/344/submission/222485059
 
+## Day 12
+
+September 9 ,2023
+
+solved 2 poblems on Codeforces
+* https://codeforces.com/contest/1399/submission/222582022
+* https://codeforces.com/contest/1294/submission/222554047
