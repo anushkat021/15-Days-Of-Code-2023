@@ -101,3 +101,14 @@ September 9 ,2023
 solved 2 poblems on Codeforces
 * https://codeforces.com/contest/1399/submission/222582022
 * https://codeforces.com/contest/1294/submission/222554047
+
+## Day 13
+
+September 10 ,2023
+
+solved 5 poblems on Codeforces
+* https://codeforces.com/contest/1426/submission/222778630
+* https://codeforces.com/contest/492/submission/222805746
+* https://codeforces.com/contest/707/submission/222823909
+* https://codeforces.com/contest/1283/submission/222782078
+* https://codeforces.com/contest/1371/submission/222720176
