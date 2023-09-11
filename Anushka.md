@@ -112,3 +112,14 @@ solved 5 poblems on Codeforces
 * https://codeforces.com/contest/707/submission/222823909
 * https://codeforces.com/contest/1283/submission/222782078
 * https://codeforces.com/contest/1371/submission/222720176
+
+## Day 14
+
+September 11 ,2023
+
+solved 4 poblems on Codeforces
+* https://codeforces.com/contest/1360/submission/223000406
+* https://codeforces.com/contest/1535/submission/222995453
+* https://codeforces.com/contest/749/submission/222997085
+* https://codeforces.com/contest/80/submission/223004129
+
